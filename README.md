@@ -1,2 +1,2 @@
 # CSS
-All HTML Concept , Practice, Project, Important Topic , are included
+All CSS Concept , Practice, Project, Important Topic , are included
